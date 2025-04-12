@@ -1,0 +1,13 @@
+- export png to header
+- compile into the binary
+- delay on drawing, decrease delay after every x seconds
+- play a sound on each appearance
+- play music
+- package into .app
+- package into .exe
+- animated textbox?
+
+
+
+- ბლორპი
+- შემოდის, იხდის $30, აქვს ლეგიტიმურობა, დეშბორდი & თრექინგი

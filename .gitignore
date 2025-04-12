@@ -1,0 +1,22 @@
+.DS_Store
+*.swp
+build/
+vendor/*/build
+**/.github
+
+# CMake generated files
+**/CMakeCache.txt
+**/CMakeFiles/
+**/cmake_install.cmake
+**/Makefile
+
+# Compiled binaries and libs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out

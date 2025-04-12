@@ -1,0 +1,24 @@
+-- 04/10/25 02:29:31
+anim_config = {
+   delay_ms = 100,
+   dir = "horiz",
+   frame_count = 4,
+   height = 64,
+   origin = "cc",
+   start_x = 0,
+   start_y = 0,
+   width = 64,
+}
+show_help = true
+reloading_started = true
+spritesheet_path = "./spritesheet.png"
+anim_x = 368
+anim_y = 268
+anim_sx = 3.4522712143931
+anim_sy = 3.4522712143931
+camera_x = 52.963699999962
+camera_y = 38
+camera_speed = 300
+background_color = { 0.2156862745098, 0.27450980392157, 0.28627450980392, 1 }
+sprite_background_color = { 0.6, 0.6, 0.6, 1 }
+sprite_border_color = { 1, 0, 0, 1 }
